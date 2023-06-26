@@ -24,7 +24,7 @@
          <tr>
       <td>Horoscope</td></td>
       <td><a href="https://github.com/achieve-software/r6-horoscope" target="_blank">Repo Details</td>
-      <td><a href="https://nba-legends-react.netlify.app/" target="_blank">Live App</td>
+      <td><a href="https://cerulean-rabanadas-5ac495.netlify.app/#tarot" target="_blank">Live App</td>
       <td><img src="" alt="Horoscope"></td>
     </tr>
         <tr>
