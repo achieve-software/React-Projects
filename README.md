@@ -48,7 +48,7 @@
              <tr>
       <td>Contact App</td></td>
       <td><a href="https://github.com/achieve-software/r14contactapp">Repo Details</td>
-      <td><a href="https://nba-legends-react.netlify.app/" target="_blank">Live App</td>
+      <td><a href="https://rainbow-praline-a0873b.netlify.app/" target="_blank">Live App</td>
       <td><img src="" alt="Contact App"></td>
     </tr>
             <tr>
