@@ -12,7 +12,7 @@
      <tr>
       <td>NBA Legends App</td></td>
       <td><a href="https://github.com/achieve-software/r11nba" target="_blank">Repo Details</td>
-      <td><a href="https://nba-legends-react.netlify.app/" target="_blank">Live App</td>
+      <td><a href="https://aesthetic-croquembouche-9e333e.netlify.app/" target="_blank">Live App</td>
       <td><img src="https://raw.githubusercontent.com/achieve-software/achieve-software/main/img/r11nba-min.gif" alt="NBA Legends App"></td>
     </tr>
      <tr>
