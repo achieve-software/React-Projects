@@ -60,7 +60,7 @@
              <tr>
       <td>Appointment Project</td></td>
       <td><a href="https://github.com/achieve-software/r16appoinment-project" target="_blank">Repo Details</td>
-      <td><a href="https://nba-legends-react.netlify.app/" target="_blank">Live App</td>
+      <td><a href="https://courageous-puppy-d0bcc3.netlify.app/">Live App</td>
       <td><img src="" alt="Appointment Project"></td>
     </tr>
             <tr>
