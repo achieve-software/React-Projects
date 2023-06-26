@@ -13,7 +13,7 @@
       <td>NBA Legends App</td></td>
       <td><a href="https://github.com/achieve-software/r11nba" target="_blank">Repo Details</td>
       <td><a href="https://nba-legends-react.netlify.app/" target="_blank">Live App</td>
-      <td><img src="https://user-images.githubusercontent.com/102467587/223734853-6621024d-fe0e-4530-ba28-ddac4ddec867.gif" alt="NBA Legends App"></td>
+      <td><img src="https://raw.githubusercontent.com/achieve-software/achieve-software/main/img/r11nba-min.gif" alt="NBA Legends App"></td>
     </tr>
      <tr>
       <td>Sass-Project</td></td>
@@ -25,7 +25,7 @@
       <td>Horoscope</td></td>
       <td><a href="https://github.com/achieve-software/r6-horoscope" target="_blank">Repo Details</td>
       <td><a href="https://cerulean-rabanadas-5ac495.netlify.app/#tarot" target="_blank">Live App</td>
-      <td><img src="" alt="Horoscope"></td>
+      <td><img src="https://raw.githubusercontent.com/achieve-software/achieve-software/main/img/r6horoscop-min.gif" alt="Horoscope"></td>
     </tr>
         <tr>
       <td>Language Cards</td></td>
