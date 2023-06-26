@@ -36,7 +36,7 @@
          <tr>
       <td>Tutorial App</td></td>
       <td><a href="https://github.com/achieve-software/r12-tutorial-app" target="_blank">Repo Details</td>
-      <td><a href="https://nba-legends-react.netlify.app/" target="_blank">Live App</td>
+      <td><a href="https://unique-mooncake-15ad09.netlify.app/">Live App</td>
       <td><img src="" alt="Tutorial App"></td>
     </tr>
            <tr>
