@@ -30,7 +30,7 @@
         <tr>
       <td>Language Cards</td></td>
       <td><a href="https://github.com/achieve-software/r8steveproject">Repo Details</td>
-      <td><a href="https://nba-legends-react.netlify.app/" target="_blank">Live App</td>
+      <td><a href="https://spectacular-crepe-011d00.netlify.app/" target="_blank">Live App</td>
       <td><img src="" alt="Steve"></td>
     </tr>
          <tr>
