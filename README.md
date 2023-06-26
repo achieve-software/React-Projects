@@ -42,7 +42,7 @@
            <tr>
       <td>Random Number</td></td>
       <td><a href="https://github.com/achieve-software/r13randomnum" target="_blank">Repo Details</td>
-      <td><a href="https://nba-legends-react.netlify.app/" target="_blank">Live App</td>
+      <td><a href="https://cheerful-heliotrope-b7f03a.netlify.app/">Live App</td>
       <td><img src="" alt="Random Number"></td>
     </tr>
              <tr>
