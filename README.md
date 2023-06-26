@@ -54,7 +54,7 @@
             <tr>
       <td>İmage Gallery</td></td>
       <td><a href="https://github.com/achieve-software/r15imagegallery">Repo Details</td>
-      <td><a href="https://nba-legends-react.netlify.app/" target="_blank">Live App</td>
+      <td><a href="https://illustrious-parfait-811af3.netlify.app/">Live App</td>
       <td><img src="" alt="İmage Gallery"></td>
     </tr>
              <tr>
