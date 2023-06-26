@@ -66,7 +66,7 @@
             <tr>
       <td>Reacttodoapp</td></td>
       <td><a href="https://github.com/achieve-software/r17reacttodoapp">Repo Details</td>
-      <td><a href="https://nba-legends-react.netlify.app/" target="_blank">Live App</td>
+      <td><a href="https://voluble-semifreddo-38e869.netlify.app/">Live App</td>
       <td><img src="" alt="react todo app"></td>
     </tr>
   </tbody>
