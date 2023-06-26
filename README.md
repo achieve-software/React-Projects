@@ -18,7 +18,7 @@
      <tr>
       <td>Sass-Project</td></td>
       <td><a href="https://github.com/achieve-software/r5-sass" target="_blank">Repo Details</td>
-      <td><a href="https://nba-legends-react.netlify.app/" target="_blank">Live App</td>
+      <td><a href="https://jolly-rugelach-187d52.netlify.app/" target="_blank">Live App</td>
       <td><img src="" alt="Sass project"></td>
     </tr>
          <tr>
