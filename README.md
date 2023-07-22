@@ -81,5 +81,11 @@
       <td><a href="https://willowy-fox-60c023.netlify.app/">Live App</td>
       <td><img src="https://github.com/achieve-software/achieve-software/blob/main/img/rooterex.gif?raw=true" alt="react todo app"></td>
     </tr>
+      <tr>
+      <td>React Huddle Project(Styled Components)</td></td>
+      <td><a href="https://github.com/achieve-software/r24huddleprojct">Repo Details</td>
+      <td><a href="https://fanciful-medovik-bc2037.netlify.app/">Live App</td>
+      <td><img src="https://github.com/achieve-software/achieve-software/blob/main/img/huddle.gif?raw=true"></td>
+      </tr>
   </tbody>
 </table>
