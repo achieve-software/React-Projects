@@ -88,10 +88,16 @@
       <td><img src="https://github.com/achieve-software/achieve-software/blob/main/img/huddle.gif?raw=true"></td>
       </tr>
           <tr>
-      <td>React Styled Components example)</td></td>
+      <td>React Styled Components example</td></td>
       <td><a href="https://github.com/achieve-software/r23styled-example">Repo Details</td>
       <td><a href="https://frabjous-rugelach-395e8e.netlify.app/">Live App</td>
       <td><img src="https://github.com/achieve-software/achieve-software/blob/main/img/styledex-react.gif?raw=true"></td>
+      </tr>
+           <tr>
+      <td>React Recap</td></td>
+      <td><a href="https://github.com/achieve-software/r25recapreact">Repo Details</td>
+      <td><a href="https://playful-madeleine-7eb45d.netlify.app/">Live App</td>
+      <td><img src="https://github.com/achieve-software/achieve-software/blob/main/img/recap-react.gif?raw=true"></td>
       </tr>
   </tbody>
 </table>
