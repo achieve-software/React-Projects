@@ -99,5 +99,23 @@
       <td><a href="https://playful-madeleine-7eb45d.netlify.app/">Live App</td>
       <td><img src="https://github.com/achieve-software/achieve-software/blob/main/img/recap-react.gif?raw=true"></td>
       </tr>
+            <tr>
+      <td>British meals</td></td>
+      <td><a href="https://github.com/achieve-software/r21britshmeals">Repo Details</td>
+      <td><a href="https://venerable-platypus-0a7fb3.netlify.app/">Live App</td>
+      <td><img src="https://github.com/achieve-software/achieve-software/blob/main/img/british.gif?raw=true"></td>
+      </tr>
+            <tr>
+      <td>Quote project</td></td>
+      <td><a href="https://github.com/achieve-software/r26quoteproject">Repo Details</td>
+      <td><a href="https://resplendent-maamoul-07ef08.netlify.app/">Live App</td>
+      <td><img src="https://github.com/achieve-software/achieve-software/blob/main/img/quote.gif?raw=true"></td>
+      </tr>
+            <tr>
+      <td>Hex color</td></td>
+      <td><a href="https://github.com/achieve-software/r27hexcolor">Repo Details</td>
+      <td><a href="https://frolicking-syrniki-97eade.netlify.app/">Live App</td>
+      <td><img src="https://github.com/achieve-software/achieve-software/blob/main/img/hex%20color.gif?raw=true"></td>
+      </tr>
   </tbody>
 </table>
