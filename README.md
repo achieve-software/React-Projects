@@ -126,9 +126,14 @@
           <tr>
       <td>Movie App</td></td>
       <td><a href="https://github.com/achieve-software/r32movieapp">Repo Details</td>
-      <td><a href="https://playful-cuchufli-213d17.netlify.app/
-">Live App</td>
+      <td><a href="https://playful-cuchufli-213d17.netlify.app/">Live App</td>
       <td><img src="https://github.com/achieve-software/achieve-software/blob/main/img/movie.gif?raw=true"></td>
+      </tr>
+         <tr>
+      <td>Redux intro</td></td>
+      <td><a href="https://github.com/achieve-software/r35redux-intro-starter/tree/main">Repo Details</td>
+      <td><a href="https://preeminent-selkie-771f49.netlify.app/">Live App</td>
+      <td><img src="https://github.com/achieve-software/achieve-software/blob/main/img/35redux.gif?raw=true"></td>
       </tr>
   </tbody>
 </table>
