@@ -123,5 +123,12 @@
       <td><a href="https://dapper-baklava-dd51ba.netlify.app/">Live App</td>
       <td><img src="https://github.com/achieve-software/achieve-software/blob/main/img/libr.gif?raw=true"></td>
       </tr>
+          <tr>
+      <td>Movie App</td></td>
+      <td><a href="https://github.com/achieve-software/r32movieapp">Repo Details</td>
+      <td><a href="https://playful-cuchufli-213d17.netlify.app/
+">Live App</td>
+      <td><img src="https://github.com/achieve-software/achieve-software/blob/main/img/movie.gif?raw=true"></td>
+      </tr>
   </tbody>
 </table>
