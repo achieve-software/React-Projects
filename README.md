@@ -117,5 +117,11 @@
       <td><a href="https://frolicking-syrniki-97eade.netlify.app/">Live App</td>
       <td><img src="https://github.com/achieve-software/achieve-software/blob/main/img/hex%20color.gif?raw=true"></td>
       </tr>
+        <tr>
+      <td>Library</td></td>
+      <td><a href="https://github.com/achieve-software/r28clarus-library-starter">Repo Details</td>
+      <td><a href="https://dapper-baklava-dd51ba.netlify.app/">Live App</td>
+      <td><img src="https://github.com/achieve-software/achieve-software/blob/main/img/libr.gif?raw=true"></td>
+      </tr>
   </tbody>
 </table>
