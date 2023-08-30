@@ -135,5 +135,12 @@
       <td><a href="https://preeminent-selkie-771f49.netlify.app/">Live App</td>
       <td><img src="https://github.com/achieve-software/achieve-software/blob/main/img/35redux.gif?raw=true"></td>
       </tr>
+  <tr>
+      <td>Redux Toolkit</td></td>
+      <td><a href="https://github.com/achieve-software/r36redux-toolkit-starter">Repo Details</td>
+      <td><a href="https://glittery-kheer-30c557.netlify.app/">Live App</td>
+      <td><img src="https://github.com/achieve-software/achieve-software/blob/main/img/36redux.gif?raw=true"></td>
+      </tr>
+        
   </tbody>
 </table>
